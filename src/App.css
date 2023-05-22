@@ -1,0 +1,14 @@
+.app {
+    background-image: url('/images/fondo8.png');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.card {
+    padding: 1.5em;
+    border-radius: 0.8em;
+    width: 100%;
+    max-width: 400px;
+    background-color: white;
+}
